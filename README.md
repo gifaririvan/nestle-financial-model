@@ -25,12 +25,12 @@ Independent portfolio project by **Mohammad Rivan Gifari, CMA** — an integrate
 
 ## Repository Contents
 
-| File | Description |
-|---|---|
-| [3-Statement Model](models/%282023-2030%29_3Statement_Model_Nestle.xlsx) | Integrated income statement, balance sheet and cash flow, FY2023A–2030F, three scenarios |
-| [DCF Model](models/%282023-2030%29_DCF_Model_Nestle.xlsx) | Unlevered FCF, WACC build-up, perpetuity growth and exit multiple methods, sensitivity tables |
-| [Comparable Valuation](models/%282023-2030%29_Comparable_Valuation_Nestle.xlsx) | Trading comps (8 peers), precedent transactions, valuation summary |
-| [Power BI Dashboard (PDF)](dashboard/Executive%20Financial%20Analysis%20Dashboard.pdf) | 11-page financial analysis: statements, ratios, DuPont, working capital, scenarios |
+| File | Description | View online |
+|---|---|---|
+| [3-Statement Model](models/%282023-2030%29_3Statement_Model_Nestle.xlsx) | Integrated income statement, balance sheet and cash flow, FY2023A–2030F, three scenarios | [Open in Excel](https://1drv.ms/x/c/038256bdca3178ad/IQBOhNh-KomGRZiSNpl3_zkPAUxkFBE9cEhjFVJqBeGO0SM?e=8Iy8CU) |
+| [DCF Model](models/%282023-2030%29_DCF_Model_Nestle.xlsx) | Unlevered FCF, WACC build-up, perpetuity growth and exit multiple methods, sensitivity tables | [Open in Excel](https://1drv.ms/x/c/038256bdca3178ad/IQAUfyvjEfzzRZ58XRwqAvfNASMn-xX506PdcSzR527r1Fk?e=ew5Xet) |
+| [Comparable Valuation](models/%282023-2030%29_Comparable_Valuation_Nestle.xlsx) | Trading comps (8 peers), precedent transactions, valuation summary | [Open in Excel](https://1drv.ms/x/c/038256bdca3178ad/IQCCc_J4QRl9RoNcClvpKfhPAX91R7Jw_M-wVJrr1HBaC0U?e=tMdSwN) |
+| [Power BI Dashboard (PDF)](dashboard/Executive%20Financial%20Analysis%20Dashboard.pdf) | 11-page financial analysis: statements, ratios, DuPont, working capital, scenarios | Opens in GitHub |
 
 ## Model Design
 
@@ -44,8 +44,8 @@ Microsoft Excel · Power BI Desktop
 
 ## How to View
 
+- **Excel models:** click **Open in Excel** to view in your browser (no sign-in or download needed), or click the file name to download it from this repository.
 - **PDF dashboard:** opens directly in GitHub.
-- **Excel files:** click the file, then **Download raw file** (⬇ icon).
 
 ## Disclaimer
 
