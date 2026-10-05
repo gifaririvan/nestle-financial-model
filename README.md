@@ -2,6 +2,14 @@
 
 Independent portfolio project by **Mohammad Rivan Gifari, CMA** — an integrated 3-statement model, DCF and comparable company valuation of Nestlé S.A., with a Power BI dashboard for financial statement analysis across Best / Base / Worst scenarios.
 
+## Dashboard Demo
+
+[![Watch the Power BI dashboard demo](https://img.shields.io/badge/%E2%96%B6%20Watch%20Demo-Executive%20Financial%20Dashboard-F2C811?style=for-the-badge)](https://1drv.ms/v/c/038256bdca3178ad/IQAma1bQXmCSQoTJlbHECeMKAQgO4Z0J6jfM6SV5IEb-SL4?e=81E4hN)
+
+Video walkthrough of the 11-page Power BI dashboard: dynamic Key Takeaways, Best / Base / Worst scenario and year slicers (FY2023A–2030F), the three financial statements, ratios, DuPont, working capital and scenario analysis.
+
+*Plays in your browser via OneDrive — no sign-in or download needed.*
+
 ## Valuation Summary (Base Case)
 
 | Method | Value per share (CHF) | vs. current price (CHF 74.63) |
@@ -31,6 +39,7 @@ Independent portfolio project by **Mohammad Rivan Gifari, CMA** — an integrate
 | [DCF Model](models/%282023-2030%29_DCF_Model_Nestle.xlsx) | Unlevered FCF, WACC build-up, perpetuity growth and exit multiple methods, sensitivity tables | [Open in Excel](https://1drv.ms/x/c/038256bdca3178ad/IQAUfyvjEfzzRZ58XRwqAvfNASMn-xX506PdcSzR527r1Fk?e=ew5Xet) |
 | [Comparable Valuation](models/%282023-2030%29_Comparable_Valuation_Nestle.xlsx) | Trading comps (8 peers), precedent transactions, valuation summary | [Open in Excel](https://1drv.ms/x/c/038256bdca3178ad/IQCCc_J4QRl9RoNcClvpKfhPAX91R7Jw_M-wVJrr1HBaC0U?e=tMdSwN) |
 | [Power BI Dashboard (PDF)](dashboard/Executive%20Financial%20Analysis%20Dashboard.pdf) | 11-page financial analysis: statements, ratios, DuPont, working capital, scenarios | Opens in GitHub |
+| Dashboard Demo Video | Walkthrough of the Power BI dashboard across scenarios and years | [Watch video](https://1drv.ms/v/c/038256bdca3178ad/IQAma1bQXmCSQoTJlbHECeMKAQgO4Z0J6jfM6SV5IEb-SL4?e=81E4hN) |
 
 ## Model Design
 
@@ -46,6 +55,7 @@ Microsoft Excel · Power BI Desktop
 
 - **Excel models:** click **Open in Excel** to view in your browser (no sign-in or download needed), or click the file name to download it from this repository.
 - **PDF dashboard:** opens directly in GitHub.
+- **Demo video:** click **Watch Demo** to play it in your browser (OneDrive).
 
 ## Disclaimer
 
