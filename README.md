@@ -4,11 +4,13 @@ Independent portfolio project by **Mohammad Rivan Gifari, CMA** — an integrate
 
 ## Dashboard Demo
 
+https://github.com/user-attachments/assets/5580239c-84f0-4266-b242-f9c716663f75
+
 [![Watch the Power BI dashboard demo](https://img.shields.io/badge/%E2%96%B6%20Watch%20Demo-Executive%20Financial%20Dashboard-F2C811?style=for-the-badge)](https://1drv.ms/v/c/038256bdca3178ad/IQAma1bQXmCSQoTJlbHECeMKAQgO4Z0J6jfM6SV5IEb-SL4?e=81E4hN)
 
 Video walkthrough of the 11-page Power BI dashboard: dynamic Key Takeaways, Best / Base / Worst scenario and year slicers (FY2023A–2030F), the three financial statements, ratios, DuPont, working capital and scenario analysis.
 
-*Plays in your browser via OneDrive — no sign-in or download needed.*
+*Video not playing? Watch it on OneDrive via the button above — no sign-in or download needed.*
 
 ## Valuation Summary (Base Case)
 
